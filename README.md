@@ -63,8 +63,6 @@ Node.js app deployed on AWS EC2 with Nginx as a reverse proxy, automated SSL/TLS
 **[Server Monitoring & Alerting with Prometheus and Grafana](https://github.com/vikasdevvmukti/monitoring-alerting-prometheus-grafana)**
 Full observability stack on AWS EC2 using Node Exporter + Prometheus for metrics collection and Grafana for real-time dashboards, with threshold-based alerting validated through synthetic load testing.
 
-> 📝 Update the first project's link above if your actual repo name differs from `ai-demo`.
-
 ---
 
 ### 💼 Experience Snapshot

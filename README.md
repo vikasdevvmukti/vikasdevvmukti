@@ -75,12 +75,18 @@ Full observability stack on AWS EC2 using Node Exporter + Prometheus for metrics
 
 ---
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vikasdevvmukti&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdevvmukti&layout=compact&hide_border=true" />
+### 🏆 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20--%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator%20(RHCSA)-%23EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
+
+- **AWS Certified Solutions Architect – Associate**
+- **Red Hat Certified System Administrator (RHCSA)**
 
 ---
 
